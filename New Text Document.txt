@@ -1,0 +1,12 @@
+When Should i use a struct instead of a class 
+
+if 
+i do not need to inherite a class to another class.
+
+instances of the type are small and commonly short-lived.
+ 
+need to reduce the impact of garbage collection on application performance.
+
+It will act like a primitive type.
+
+do not need to use polymorphism
